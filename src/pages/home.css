@@ -1,0 +1,30 @@
+.class-home-container
+{
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(rgba(8,0,58,0.7), rgba(8,0,58,0.7)),url('../assets/zodiac-signs-inside-of-horoscope-circle-astrology.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.class-title
+{
+    color: white;
+    text-align: center;
+    max-width: 800px;
+}
+
+.class-title h1
+{
+    font-size: 50px;
+}
+
+.class-title p
+{
+    max-width: 800px;
+    margin: 10px auto 20px;
+    line-height: 2;
+}
