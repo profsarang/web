@@ -10,6 +10,11 @@ function Home()
                     <p>
                         Where Universe decides your fate
                     </p>
+
+                    ,<p>To cast your birth chart, simply fillin the following form.
+</p>
+
+
                 </div>
             </div>
          
